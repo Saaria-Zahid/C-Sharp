@@ -1,0 +1,10 @@
+C:\Users\saari\source\repos\clientform\clientform\bin\Debug\clientform.exe.config
+C:\Users\saari\source\repos\clientform\clientform\bin\Debug\clientform.exe
+C:\Users\saari\source\repos\clientform\clientform\bin\Debug\clientform.pdb
+C:\Users\saari\source\repos\clientform\clientform\obj\Debug\clientform.csprojAssemblyReference.cache
+C:\Users\saari\source\repos\clientform\clientform\obj\Debug\clientform.Form1.resources
+C:\Users\saari\source\repos\clientform\clientform\obj\Debug\clientform.Properties.Resources.resources
+C:\Users\saari\source\repos\clientform\clientform\obj\Debug\clientform.csproj.GenerateResource.cache
+C:\Users\saari\source\repos\clientform\clientform\obj\Debug\clientform.csproj.CoreCompileInputs.cache
+C:\Users\saari\source\repos\clientform\clientform\obj\Debug\clientform.exe
+C:\Users\saari\source\repos\clientform\clientform\obj\Debug\clientform.pdb
